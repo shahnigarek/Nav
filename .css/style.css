@@ -54,13 +54,18 @@ a{
     margin:0px 0px 8px;
 
 }
+#Third .thirdContent{
+    margin: 0 auto;
+    width: fit-content;
+}
 #Third p{
     color:#212529;
     font-size: 20px;
     margin:0px 0px 16px;
 }
-.ul.ulli{
+#Third .ulli{
     list-style-position:inside ;
+    margin-left: 20px;
 }
 #Fourth{
     padding-top: 9rem;
@@ -102,3 +107,4 @@ a{
     font-size: 16px;
 
 }
+
